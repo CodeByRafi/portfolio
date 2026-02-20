@@ -41,12 +41,12 @@ const Work = () => {
       tech: ["React", "Gemini AI", "Node.js", "MongoDB"],
     },
     {
-      title: "Expense Tracker",
-      desc: "Expense Tracker — Smart MERN app for managing income & expenses with charts and dashboards for financial insights.",
+      title: "notepad",
+      desc: "A simple notepad application built with React and Node.js, allowing users to create, edit, and save notes.",
       img: "./expense.png",
       live: "",
       git: "https://github.com/CodeByRafi/Notepad",
-      tech: ["React", "Charts.js", "MongoDB", "Node.js"],
+      tech: ["React",  "MongoDB", "Node.js"],
     },
     {
       title: "Bank Management System",
@@ -60,9 +60,9 @@ const Work = () => {
       title: "Resume Builder",
       desc: "Resume Builder — A MERN app that helps users create professional resumes with multiple templates and export as PDF.",
       img: "./resume.png",
-      live: "https://resume-three-cyan.vercel.app",
-      git: "https://github.com/Aadarsh-max/Resume-Builder",
-      tech: ["React", "PDF.js", "MongoDB", "Node.js"],
+      live: "https://rafi-portfolio-plum.vercel.app/",
+      git: "https://github.com/CodeByRafi/portfolio",
+      tech: ["React", "tailwind", "MongoDB", "Node.js"],
     },
   ];
 
