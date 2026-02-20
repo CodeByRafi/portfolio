@@ -55,7 +55,7 @@ const Connect = () => {
     {
       icon: <Instagram className="w-5 h-5" />,
       label: "Instagram",
-      link: "https://instagram.com/hii_aadarshhh",
+      link: "https://www.instagram.com/_rakibul_islam_rafi_75_?igsh=MWE1ZGozOXAzbHZtMg==",
     },
     {
       icon: <MessageCircle className="w-5 h-5" />,
@@ -70,7 +70,7 @@ const Connect = () => {
     {
       icon: <Facebook className="w-5 h-5" />,
       label: "Facebook",
-      link: "",
+      link: "https://www.facebook.com/share/17hWaF131N/",
     },
    
   ];
