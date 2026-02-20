@@ -167,7 +167,7 @@ const Skills = () => {
           <div
             className={`text-center ${cardBg} rounded-2xl p-6 border-2 transition-all duration-300 hover:-translate-y-2`}
           >
-            <div className={`text-3xl font-bold ${textSecondary} mb-2`}>1+</div>
+            <div className={`text-3xl font-bold ${textSecondary} mb-2`}>3+</div>
             <div className={`text-sm font-medium ${textPrimary}`}>
               Years Learning
             </div>
